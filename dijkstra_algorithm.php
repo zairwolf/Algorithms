@@ -1,10 +1,12 @@
 <?php
 /**
  *	Dijkstra's algorithm in PHP by zairwolf
+ * 
+ * 	Demo: http://www.you4be.com/dijkstra_algorithm.php
  *
- *	Email: z(at)5ea.com
+ *	Source: https://github.com/zairwolf/Algorithms/blob/41d5756f5446ec59ae943ebcd5409ab558b56c7c/dijkstra_algorithm.php
  *
- *	Linkedin: www.linkedin.com/in/zairwolf/
+ *	Author: Hai Zheng @ https://www.linkedin.com/in/zairwolf/
  *
  */
 
@@ -61,5 +63,7 @@ $path[] = $a;
 $path = array_reverse($path);
 
 //print result
-echo "The length is ".$S[$b][1];
+echo "<img src='http://www.you4be.com/dijkstra_algorithm.png'>";
+echo "<br />From $a to $b";
+echo "<br />The length is ".$S[$b][1];
 echo "<br />Path is ".implode('->', $path);

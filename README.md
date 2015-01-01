@@ -1,7 +1,6 @@
 **Algorithms List**
 
 Dijkstra's algorithm
-
 Result : http://www.you4be.com/dijkstra_algorithm.php
 
 **About**

@@ -4,7 +4,7 @@
  * 
  * 	Demo: http://www.you4be.com/dijkstra_algorithm.php
  *
- *	Source: https://github.com/zairwolf/Algorithms/blob/41d5756f5446ec59ae943ebcd5409ab558b56c7c/dijkstra_algorithm.php
+ *	Source: https://github.com/zairwolf/Algorithms/blob/master/dijkstra_algorithm.php
  *
  *	Author: Hai Zheng @ https://www.linkedin.com/in/zairwolf/
  *
